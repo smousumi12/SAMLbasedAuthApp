@@ -1,0 +1,6 @@
+declare module 'saml-encoder-decoder-js'
+declare module 'react-xml-parser'
+declare module 'react-service-worker'
+declare module 'react-adal'
+declare module 'react'
+declare module 'react-router-dom'
